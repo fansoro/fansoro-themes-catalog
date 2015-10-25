@@ -1,15 +1,3 @@
-Materialize:
-  name: Materialize
-  description: Materialize Morfy theme
-  author:
-    name: Sergey Romanenko
-    email: awilum@msn.com
-    url: https://github.com/Awilum
-  homepage: https://github.com/morfy-cms/morfy-theme-materialize
-  download: https://github.com/morfy-cms/morfy-theme-materialize/releases
-  bugs: https://github.com/morfy-cms/morfy-theme-materialize/issues
-  preview: https://github.com/morfy-cms/morfy-theme-materialize/raw/master/screenshot.png
-  license: MIT
 Bootswatch:
   name: Bootswatch
   description: Bootswatch Morfy theme
@@ -22,3 +10,81 @@ Bootswatch:
   bugs: https://github.com/morfy-cms/morfy-theme-bootswatch/issues
   preview: https://github.com/morfy-cms/morfy-theme-bootswatch/raw/master/screenshot.jpg
   license: MIT
+Materialize:
+  name: Materialize
+  description: Materialize Morfy theme
+  author:
+    name: Sergey Romanenko
+    email: awilum@msn.com
+    url: https://github.com/Awilum
+  homepage: https://github.com/morfy-cms/morfy-theme-materialize
+  download: https://github.com/morfy-cms/morfy-theme-materialize/releases
+  bugs: https://github.com/morfy-cms/morfy-theme-materialize/issues
+  preview: https://github.com/morfy-cms/morfy-theme-materialize/raw/master/screenshot.png
+  license: MIT
+Simple:
+  name: Simple
+  description: Simple Morfy theme
+  author:
+    name: xxwebplus
+    email: xxwebplus@gmail.com
+    url: http://www.xxwebplus.eu/
+  homepage: http://www.xxwebplus.eu/template/simple
+  download: http://www.xxwebplus.eu/template/simple
+  bugs: http://www.xxwebplus.eu/contact
+  preview: http://www.xxwebplus.eu/public/images/xxwebplus-simple.png
+Happy paws:
+  name: Happy paws
+  description: Happy paws Morfy theme
+  author:
+    name: xxwebplus
+    email: xxwebplus@gmail.com
+    url: http://www.xxwebplus.eu/
+  homepage: http://www.xxwebplus.eu/template/happy-paws
+  download: http://www.xxwebplus.eu/template/happy-paws
+  bugs: http://www.xxwebplus.eu/contact
+  preview: http://www.xxwebplus.eu/public/images/xxwebplus-happypaws.png
+Event:
+  name: Event
+  description: Event Morfy theme
+  author:
+    name: xxwebplus
+    email: xxwebplus@gmail.com
+    url: http://www.xxwebplus.eu/
+  homepage: http://www.xxwebplus.eu/template/event
+  download: http://www.xxwebplus.eu/template/event
+  bugs: http://www.xxwebplus.eu/contact
+  preview: http://www.xxwebplus.eu/public/images/xxwebplus-event.png
+Baratheon:
+  name: Baratheon
+  description: Baratheon Morfy theme
+  author:
+    name: xxwebplus
+    email: xxwebplus@gmail.com
+    url: http://www.xxwebplus.eu/
+  homepage: http://www.xxwebplus.eu/template/baratheon
+  download: http://www.xxwebplus.eu/template/baratheon
+  bugs: http://www.xxwebplus.eu/contact
+  preview: http://www.xxwebplus.eu/public/images/xxwebplus-baratheon.png
+Grid:
+  name: Grid
+  description: Grid Morfy theme
+  author:
+    name: xxwebplus
+    email: xxwebplus@gmail.com
+    url: http://www.xxwebplus.eu/
+  homepage: http://www.xxwebplus.eu/template/grid
+  download: http://www.xxwebplus.eu/template/grid
+  bugs: http://www.xxwebplus.eu/contact
+  preview: http://www.xxwebplus.eu/public/images/xxwebplus-grid.png
+Lane:
+  name: Lane
+  description: Lane Morfy theme
+  author:
+    name: xxwebplus
+    email: xxwebplus@gmail.com
+    url: http://www.xxwebplus.eu/
+  homepage: http://www.xxwebplus.eu/template/lane
+  download: http://www.xxwebplus.eu/template/lane
+  bugs: http://www.xxwebplus.eu/contact
+  preview: http://www.xxwebplus.eu/public/images/xxwebplus-lane.png
