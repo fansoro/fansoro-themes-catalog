@@ -1,30 +1,30 @@
 Bootswatch:
   name: Bootswatch
-  description: Bootswatch Morfy theme
+  description: Bootswatch Fansoro theme
   author:
     name: Sergey Romanenko
     email: awilum@msn.com
     url: https://github.com/Awilum
-  homepage: https://github.com/morfy-cms/morfy-theme-bootswatch/
-  download: https://github.com/morfy-cms/morfy-theme-bootswatch/releases
-  bugs: https://github.com/morfy-cms/morfy-theme-bootswatch/issues
-  preview: https://github.com/morfy-cms/morfy-theme-bootswatch/raw/master/screenshot.jpg
+  homepage: https://github.com/fansoro/fansoro-theme-bootswatch/
+  download: https://github.com/fansoro/fansoro-theme-bootswatch/releases
+  bugs: https://github.com/fansoro/fansoro-theme-bootswatch/issues
+  preview: https://github.com/fansoro/fansoro-theme-bootswatch/raw/master/screenshot.jpg
   license: MIT
 Materialize:
   name: Materialize
-  description: Materialize Morfy theme
+  description: Materialize Fansoro theme
   author:
     name: Sergey Romanenko
     email: awilum@msn.com
     url: https://github.com/Awilum
-  homepage: https://github.com/morfy-cms/morfy-theme-materialize
-  download: https://github.com/morfy-cms/morfy-theme-materialize/releases
-  bugs: https://github.com/morfy-cms/morfy-theme-materialize/issues
-  preview: https://github.com/morfy-cms/morfy-theme-materialize/raw/master/screenshot.png
+  homepage: https://github.com/fansoro/fansoro-theme-materialize
+  download: https://github.com/fansoro/fansoro-theme-materialize/releases
+  bugs: https://github.com/fansoro/fansoro-theme-materialize/issues
+  preview: https://github.com/fansoro/fansoro-theme-materialize/raw/master/screenshot.png
   license: MIT
 Simple:
   name: Simple
-  description: Simple Morfy theme
+  description: Simple Fansoro theme
   author:
     name: xxwebplus
     email: xxwebplus@gmail.com
@@ -35,7 +35,7 @@ Simple:
   preview: http://www.xxwebplus.eu/public/images/xxwebplus-simple.png
 Happy paws:
   name: Happy paws
-  description: Happy paws Morfy theme
+  description: Happy paws Fansoro theme
   author:
     name: xxwebplus
     email: xxwebplus@gmail.com
@@ -46,7 +46,7 @@ Happy paws:
   preview: http://www.xxwebplus.eu/public/images/xxwebplus-happypaws.png
 Event:
   name: Event
-  description: Event Morfy theme
+  description: Event Fansoro theme
   author:
     name: xxwebplus
     email: xxwebplus@gmail.com
@@ -57,7 +57,7 @@ Event:
   preview: http://www.xxwebplus.eu/public/images/xxwebplus-event.png
 Baratheon:
   name: Baratheon
-  description: Baratheon Morfy theme
+  description: Baratheon Fansoro theme
   author:
     name: xxwebplus
     email: xxwebplus@gmail.com
@@ -68,7 +68,7 @@ Baratheon:
   preview: http://www.xxwebplus.eu/public/images/xxwebplus-baratheon.png
 Grid:
   name: Grid
-  description: Grid Morfy theme
+  description: Grid Fansoro theme
   author:
     name: xxwebplus
     email: xxwebplus@gmail.com
@@ -79,7 +79,7 @@ Grid:
   preview: http://www.xxwebplus.eu/public/images/xxwebplus-grid.png
 Lane:
   name: Lane
-  description: Lane Morfy theme
+  description: Lane Fansoro theme
   author:
     name: xxwebplus
     email: xxwebplus@gmail.com
