@@ -88,3 +88,14 @@ Lane:
   download: http://www.xxwebplus.eu/template/lane
   bugs: http://www.xxwebplus.eu/contact
   preview: http://www.xxwebplus.eu/public/images/xxwebplus-lane.png
+Guide:
+  name: Guide
+  description: Fully Responsive Free HTML5 template
+  author:
+    name: DESIGNED & DEVELOPED by FREEHTML5.co
+    email: nakome@gmail.com
+    url: http://freehtml5.co/
+  homepage: https://github.com/nakome/guide-theme-fansoro
+  download: https://github.com/nakome/guide-theme-fansoro
+  bugs: http://monchovarela.es/contact
+  preview: https://dl.dropboxusercontent.com/u/23834858/fotos/guide_theme.png
